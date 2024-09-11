@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aayush
-- 🌱 I’m currently learning B.Tech CSE in Darshan University
+- Hi 👋 , I’m Aayush Sojitra!
+
 
 
 <!---
