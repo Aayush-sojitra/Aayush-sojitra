@@ -1,4 +1,4 @@
-- Hi 👋 , I’m Aayush Sojitra!
+Hi 👋 , I’m Aayush Sojitra!
 
 
 
